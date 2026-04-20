@@ -154,7 +154,7 @@ Consulting
 🔴 4. Key Technologies Used
 
 Based on their domains, you should expect:
-
+not coming 
 💻 Programming:
 
 Java
